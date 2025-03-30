@@ -1,6 +1,7 @@
-# Hello:wave: , I'm Deepa:blush:
+# Hello 👋 , I'm Deepa 😊
 
-:point_right: A passionate and self-motivated undergraduate student in B.Tech(IT)<br>
+:point_ri
+ght: A passionate and self-motivated undergraduate student in B.Tech(IT)<br>
 
 🌱 Open to learn new things.<br>
 
