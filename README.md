@@ -1,11 +1,10 @@
 # Hello 👋 , I'm Deepa 😊
 
-:point_ri
-ght: A passionate and self-motivated undergraduate student in B.Tech(IT)<br>
+👉🏻 A passionate and self-motivated undergraduate student in B.Tech(IT)<br>
 
 🌱 Open to learn new things.<br>
 
-:hourglass_flowing_sand: Waiting for new oppportunitites.
+⏳ Waiting for new oppportunitites.
 
 📫 How to reach me **deepaphalswal@gmail.com**
 
